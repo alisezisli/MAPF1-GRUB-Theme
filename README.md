@@ -1,6 +1,6 @@
-# MAPF1-GRUB-Theme
+# MAPF1 GRUB Theme
 
-Mercedes-AMG Petronas Formula One Team GRUB theme
+Mercedes-AMG Petronas Formula One Team GNU GRUB (GNU **GR**and **U**nified **B**ootloader) theme
 
 ## Disclaimer
 
