@@ -8,6 +8,10 @@ This project is **not affiliated** with [Mercedes-AMG Petronas Formula One Team 
 
 As a fan, I've wanted to create a GRUB theme for myself and then share it with the world for free (as in freedom).
 
+## Demo
+
+[Mercedes-AMG Petronas Formula One Team GNU GRUB theme](https://www.youtube.com/watch?v=HCuy_OeBBGE)
+
 ## Installation (For Ubuntu 20.04)
 
 1. `git clone https://github.com/alisezisli/MAPF1-GRUB-Theme.git` (or download the project as a zip)
