@@ -26,3 +26,13 @@ It's pretty much the same. But you might have to use some something else instead
 ## Notes
 
 This is my first GRUB theme and I'm sure it needs a lot of improvement. I've tested this theme with Ubuntu 20.04 in 1920x1080 resolution. Feel free to create issues and PR's.
+
+## Screenshots
+
+### MAPF1 Theme
+
+![MAPF1 Theme](https://github.com/alisezisli/MAPF1-GRUB-Theme/blob/main/Screenshots/MAPF1_Theme.png?raw=true)
+
+### MAPF1 Theme (Without Progress Bar) 
+
+![MAPF1 Theme](https://github.com/alisezisli/MAPF1-GRUB-Theme/blob/main/Screenshots/MAPF1_Without_Progress_Bar.png?raw=true)
