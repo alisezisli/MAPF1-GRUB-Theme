@@ -1,11 +1,11 @@
-# Mercedes AMG Petronas F1 GRUB theme
+# Mercedes-AMG Petronas F1 GRUB theme
 #
 # Written by Ali Sezişli (https://alisezisli.com.tr)
 # GNU/Linux Blog: https://gnuadm.in
 # Source: https://github.com/alisezisli/MAPF1-GRUB-Theme
 
 #Global Properties
-title-text: "Mercedes AMG Petronas F1"
+title-text: "Mercedes-AMG Petronas F1"
 title-color: "#00AE9D"
 desktop-image: "background.png"
 desktop-image-scale-method: "stretch"
