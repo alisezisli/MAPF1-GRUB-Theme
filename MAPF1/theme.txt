@@ -3,10 +3,12 @@
 # Written by Ali Sezişli (https://alisezisli.com.tr)
 # GNU/Linux Blog: https://gnuadm.in
 # Source: https://github.com/alisezisli/MAPF1-GRUB-Theme
+# Initial commit: 30 October 2021 03:36 GMT +3
+# Latest update: 7 November 2021
 
 #Global Properties
 title-text: "Mercedes-AMG Petronas F1"
-title-color: "#00AE9D"
+title-color: "#009A93"
 desktop-image: "background.png"
 desktop-image-scale-method: "stretch"
 terminal-width: "100%"
@@ -15,6 +17,8 @@ terminal-left: "0"
 terminal-top: "0"
 terminal-border: "0"
 terminal-box: "menu_bg_*.png"
+title-font: "Quantico Bold 26"
+terminal-font: "Ubuntu Mono Regular 24"
 
 #Boot Menu
 + boot_menu {
@@ -23,7 +27,7 @@ terminal-box: "menu_bg_*.png"
 	height = 20%
 	top = 25%
 	left = 30%
-	item_color = "#00AE9D"
+	item_color = "#009A93"
 	selected_item_color = "#000000"
 	icon_width = 32
 	icon_height = 32
@@ -35,6 +39,8 @@ terminal-box: "menu_bg_*.png"
 	scrollbar = true
 	scrollbar_width = 15
 	scrollbar_thumb = "slider_*.png"
+	item_font = "Quantico Regular 24"
+	selected_item_font = "Quantico Bold 24"
 }
 
 #Progress Bar
@@ -44,10 +50,11 @@ terminal-box: "menu_bg_*.png"
 	height = 45
 	top = 80%
 	left = 31%
-	text = "Leaving pit area in: %d seconds"
+	text = "Leaving pit lane in: %d seconds"
 	text_color = "#FFFFFF"
 	bar_style = "progress_bar_*.png"
 	highlight_style = "progress_highlight_*.png"
+	item_font = "Quantico Regular 24"
 }
 
 #Blog
@@ -59,7 +66,7 @@ terminal-box: "menu_bg_*.png"
 	color = "#000000"
 	align = "center"
 	text = "alisezisli.com.tr"
-	item_font = "DejaVu Mono Regular 24"
+	item_font = "Quantico Regular 24"
 }
 
 
@@ -72,5 +79,5 @@ terminal-box: "menu_bg_*.png"
 	color = "#000000"
         align = "center"
         text = "gnuadm.in"
-	item_font = "DejaVu Mono Regular 24"
+	item_font = "Quantico Regular 24"
 }
