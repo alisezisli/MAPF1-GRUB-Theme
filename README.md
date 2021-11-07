@@ -40,3 +40,7 @@ This is my first GRUB theme and I'm sure it needs a lot of improvement. I've tes
 ### MAPF1 Theme (Without Progress Bar) 
 
 ![MAPF1 Theme](https://github.com/alisezisli/MAPF1-GRUB-Theme/blob/main/Screenshots/MAPF1_Without_Progress_Bar.png?raw=true)
+
+### MAPF1 Theme (Terminal) 
+
+![MAPF1 Theme](https://github.com/alisezisli/MAPF1-GRUB-Theme/blob/main/Screenshots/MAPF1_Terminal.png?raw=true)
