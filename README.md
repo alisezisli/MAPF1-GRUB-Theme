@@ -8,6 +8,14 @@ This project is **not affiliated** with [Mercedes-AMG Petronas Formula One Team 
 
 As a fan, I've wanted to create a GRUB theme for myself and then share it with the world for free (as in freedom).
 
+## Moment of Wow!
+
+![MAPF1 Theme](https://github.com/alisezisli/MAPF1-GRUB-Theme/blob/main/Screenshots/Mercedes_Sub_Forum.png?raw=true)
+
+This theme has noticed on F1 Fan Voice Mercedes-AMG Forums! :)
+
+[Official Mercedes Fan Voice Community](https://www.f1fanvoice.com/forum/thread/77712)
+
 ## Demo
 
 [Mercedes-AMG Petronas Formula One Team GNU GRUB theme](https://www.youtube.com/watch?v=HCuy_OeBBGE)
