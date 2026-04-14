@@ -1,10 +1,9 @@
 # Mercedes-AMG Petronas F1 GRUB theme
 #
 # Written by Ali Sezişli (https://alisezisli.com.tr)
-# GNU/Linux Blog: https://gnuadm.in
 # Source: https://github.com/alisezisli/MAPF1-GRUB-Theme
 # Initial commit: 30 October 2021 03:36 GMT +3
-# Latest update: 7 November 2021
+# Latest update: 14.04.2026
 
 #Global Properties
 title-text: "Mercedes-AMG Petronas F1"
@@ -78,6 +77,6 @@ terminal-font: "Ubuntu Mono Regular 24"
 	left = 35%
 	color = "#000000"
         align = "center"
-        text = "gnuadm.in"
+        text = "linuxhate.com"
 	item_font = "Quantico Regular 24"
 }
