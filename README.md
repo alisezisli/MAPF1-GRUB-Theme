@@ -23,7 +23,7 @@ This theme has noticed on F1 Fan Voice Mercedes-AMG Forums! :)
 ## Installation (For Ubuntu 20.04)
 
 1. `git clone https://github.com/alisezisli/MAPF1-GRUB-Theme.git` (or download the project as a zip)
-2. `cd MAPF1-GRUB-THEME`
+2. `cd MAPF1-GRUB-Theme`
 3. `sudo cp -r MAPF1/ /boot/grub/themes/`
 4. `sudo vi /etc/default/grub`
 5. Change the corresponding lines. If the lines don't exist, add them into file:
